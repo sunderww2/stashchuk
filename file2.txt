@@ -1,1 +1,2 @@
 Second file in Git repository,
+Git fetch check
